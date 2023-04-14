@@ -1,5 +1,5 @@
-public class impresionMejora {
+public class ImpresionMejora {
     public void mejorarImpresion(){
-        System.out.println("**putita**");
+        System.out.println("putita");
     }
 }
